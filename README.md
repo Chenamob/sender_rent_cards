@@ -1,4 +1,4 @@
-SENDER_RENT_CARDS
+# SENDER_RENT_CARDS
 
 Preparation
 ===========
